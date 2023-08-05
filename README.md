@@ -20,15 +20,12 @@ Within the pages of the CSS Detective Handbook lie a series of CSS challenges th
 To get started, complete the following steps with your partner:
 <ul>
   <li>
-    Review the HTML file called <strong>mystery.html</strong>. It will have clues to help you solve the CSS challenges. Its clues are indicated by its <a href="https://www.w3schools.com/html/html_comments.asp">HTML comments</a>! 
+    Review the HTML file called <strong>index.html</strong>. It will have clues to help you solve the CSS challenges. Its clues are indicated by its <a href="https://www.w3schools.com/html/html_comments.asp">HTML comments</a>! 
   </li>
   <li>
-    Review the CSS file called <strong>detective-handbook.css</strong>. It will have CSS challenges for you to solve. Its challenges are indicated by its <a href="https://www.w3schools.com/css/css_comments.asp">CSS comments</a>! 
+    Review the CSS file called <strong>style.css</strong>. It will have CSS challenges for you to solve. Its challenges are indicated by its <a href="https://www.w3schools.com/css/css_comments.asp">CSS comments</a>! 
   </li>
   <li>
     Complete all the CSS challenges! Add your creative touch to the mystery-themed web page while solving the CSS challenges. You can experiment with colors, fonts, and other properties to enhance the mystery vibe.
-  </li>
-  <li>
-    To see the results of your changes, open <strong>mystery.html</strong> in a web browser!
   </li>
 </ul>
